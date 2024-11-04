@@ -1,0 +1,14 @@
+{
+  "name": "todo-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Surya Rajendran",
+  "license": "ISC",
+  "description": "To do app for learning",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
